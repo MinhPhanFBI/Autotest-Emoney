@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node test.js"
+  },
+  "devDependencies": {
+    "webdriverio": "^8.27.0"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  }
+}
