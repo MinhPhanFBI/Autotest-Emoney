@@ -1,6 +1,7 @@
 {
+  "type": "module",
   "scripts": {
-    "start": "node test.js"
+    "start": "node index.js"
   },
   "devDependencies": {
     "webdriverio": "^8.27.0"
